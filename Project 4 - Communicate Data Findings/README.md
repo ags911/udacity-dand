@@ -1,6 +1,19 @@
 # The Truth About Airline Statistics
 ### by Darren Gidado
 
+
+```python
+from PIL import Image # Library for importing images
+Image.open('spss-statistics-leadspace.jpg')
+```
+
+
+
+
+![png](output_1_0.png)
+
+
+
 <a id='intro'></a>
 ## Introduction
 

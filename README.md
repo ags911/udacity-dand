@@ -1,16 +1,10 @@
 ## Darren Gidado's Data Analyst ND Portfolio
 
-### [Intro Project: Explore Weather Trends](https://github.com/ags911/udacity-dand/blob/main/Project%200%20-%20Explore%20Weather%20Trends/Project%200%20-%20Exploring%20Weather%20Trends.ipynb)
-
 <img align="left" width="250" height="150" img src="images/output_2_0.png"> **[Intro Project: Explore Weather Trends](https://github.com/ags911/udacity-dand/blob/main/Project%200%20-%20Explore%20Weather%20Trends/Project%200%20-%20Exploring%20Weather%20Trends.ipynb)**
 
 The Exploring Weather Trends project will demonstrate using SQL and downloading data from a database. We will analyze local and global temperature data and compare the temperature trends where we live to overall global temperature trends.
 
-<br></br>
-
-![png](images/output_2_0.png)
-
-#### Project 1: Investigating TMDB Movies Dataset
+<img align="left" width="250" height="150" img src="images/output_4_0.png"> **[Project 1: Investigating TMDB Movies Dataset](https://github.com/ags911/udacity-dand/blob/main/Project%200%20-%20Explore%20Weather%20Trends/Project%200%20-%20Exploring%20Weather%20Trends.ipynb)**
 
 In this project, we will choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We will complete the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 

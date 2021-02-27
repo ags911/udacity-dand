@@ -1,4 +1,4 @@
-## Darren Gidado's Data Analyst ND Portfolio
+## Darren Gidado's Data Analyst NanoDegree Portfolio
 
 #### Intro Project: Explore Weather Trends
 

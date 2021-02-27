@@ -20,7 +20,7 @@ In this project, we will choose one of Udacity’s curated datasets and investig
 
 <img align="left" width="250" height="150" img src="images/output_6_0.png"> **[Project 2: Analyze Experiment Results](https://github.com/ags911/udacity-dand/blob/main/Project%202%20-%20Analyse%20AB%20Test%20Results/Project%202%20-%20Analyze%20AB%20Test%20Results.ipynb)**
 
-In this project, we will be provided a dataset reflecting data collected from an landing page experiment. We’ll use statistical techniques to answer questions about the data and report our conclusions and recommendations in a report.
+In this project, we will be provided a dataset reflecting data collected from an landing page experiment. We’ll use statistical techniques to answer questions about the data and report our conclusions and recommendations in a report. We will also use machine learning and logistic regression to predict how various factors might affect conversions depending on the landing page.
 
 <br></br>
 

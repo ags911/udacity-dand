@@ -36,7 +36,7 @@ Image.open('p1.jpg')
 
 
 
-![png](output_4_0.png)
+![png](images/output_4_0.png)
 
 
 
@@ -52,7 +52,7 @@ Image.open('p2.jpg')
 
 
 
-![png](output_6_0.png)
+![png](images/output_6_0.png)
 
 
 
@@ -68,7 +68,7 @@ Image.open('p3.jpg')
 
 
 
-![png](output_8_0.png)
+![png](images/output_8_0.png)
 
 
 

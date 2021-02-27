@@ -1,6 +1,6 @@
 ## Darren Gidado's Data Analyst ND Portfolio
 
-#### Intro Project: Explore Weather Trends
+#### Intro Project: Explore Weather Trends(https://github.com/ags911/udacity-dand/blob/main/Project%200%20-%20Explore%20Weather%20Trends/Project%200%20-%20Exploring%20Weather%20Trends.ipynb)
 
 The Exploring Weather Trends project will demonstrate using SQL and downloading data from a database. We will analyze local and global temperature data and compare the temperature trends where we live to overall global temperature trends.
 

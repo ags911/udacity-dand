@@ -20,7 +20,7 @@ Image.open('p0.jpg')
 
 
 
-![png](output_2_0.png)
+![png](images/output_2_0.png)
 
 
 

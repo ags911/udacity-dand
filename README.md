@@ -28,4 +28,4 @@ Real-world data rarely comes clean. Using Python, we’ll gather data from a var
 
 This dataset reports flights in the United States, including carriers, arrival and departure delays, and reasons for delays, from 1987 to 2008. For our analysis, we are going to be using the three year period between 1989 to 1991 as our sample dataset as the whole dataset is too large to practically observe with Jupyter. Our goal is to ask as many questions as possible and visualise the data in univariate, bivariate and, multivariate.
 
-![png](output_10_0.png)
+![png](images/output_10_0.png)

@@ -36,4 +36,4 @@ Real-world data rarely comes clean. Using Python, we’ll gather data from a var
 
 <img align="left" width="250" height="150" img src="images/output_10_0.png"> **[Project 4: The Truth About Airline Statistics](https://github.com/ags911/udacity-dand/blob/main/Project%204%20-%20Communicate%20Data%20Findings/communicate_data_findings.ipynb)**
 
-This dataset reports flights in the United States from 1987 to 2008 including carrier data, arrival and departure delays, and other data. For our analysis, we are going to be using the three year period between 1989 to 1991 as our sample dataset as the whole dataset is too large to practically observe with Jupyter. We will visualise our data findings in univariate, bivariate and, multivariate plots.
+This dataset reports flights in the United States from 1987 to 2008 including arrival and departure delays, carriers, and other data. For our analysis, we are sampling the three year period between 89' to 91' as our sample dataset as the whole dataset is too large to practically observe with Jupyter. Findings will be visualised in univariate, bivariate and, multivariate plots.

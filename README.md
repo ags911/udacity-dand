@@ -15,7 +15,7 @@ The Exploring Weather Trends project will demonstrate using SQL and downloading 
 In this project, we will choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We will complete the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
 <br></br>
-
+<br></br>
 <!-- Project 2 -->
 
 <img align="left" width="250" height="150" img src="images/output_6_0.png"> **[Project 2: Analyze Experiment Results](https://github.com/ags911/udacity-dand/blob/main/Project%202%20-%20Analyse%20AB%20Test%20Results/Project%202%20-%20Analyze%20AB%20Test%20Results.ipynb)**

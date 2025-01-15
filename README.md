@@ -12,7 +12,7 @@ The Exploring Weather Trends project will demonstrate using SQL and downloading 
 
 <img align="left" width="250" height="150" img src="images/output_4_0.png"> **[Project 1: Investigating TMDB Movies Dataset](https://github.com/ags911/udacity-dand/blob/main/Project%201%20-%20Investigate%20a%20Dataset/Project%201%20-%20Investigate%20a%20Dataset.ipynb)**
 
-In this project, we will choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We will complete the entire data analysis process, starting by posing a question and finishing by sharing your findings.
+In this project, we will choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We will complete the entire data analysis process, starting by posing a question and finishing by sharing our findings.
 
 <br></br>
 <br></br>
